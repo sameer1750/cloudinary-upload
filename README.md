@@ -2,7 +2,7 @@
 A Package to upload your files to cloudinary
 # Installation
 <pre>
-npm install cloudinary upload
+npm install cloudinary-upload
 </pre>
 In your gulp file add the following configurations
 <pre>
