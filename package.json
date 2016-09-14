@@ -1,0 +1,18 @@
+{
+  "name": "cloudinary-upload",
+  "version": "1.0.6",
+  "description": "Upload resources to cloudinary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloudinary",
+    "upload"
+  ],
+  "author": "Sameer Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.4.1"
+  }
+}
