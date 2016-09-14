@@ -4,7 +4,7 @@ A Package to upload your files to cloudinary
 npm install cloudinary upload
 
 In your gulp file add the following configurations
-
+<pre>
 uploadToCloudinary = require('cloudinary-upload');
 
 var config = {
@@ -22,4 +22,5 @@ gulp.task('upload',['revision'], function () {
         .pipe(cldnry.upload(cloudinaryOptions))
 });
 
+</pre>
 And you are done
